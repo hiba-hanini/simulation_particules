@@ -109,3 +109,8 @@ Ou bien depuis la racine du projet :
 ```bash
 doxygen Doxyfile
 ```
+
+## Authors
+
+**Hiba Hanini** · ENSIMAG, Grenoble INP  
+**Hossam El Hbouli** · [@LIKEABOTT131](https://github.com/LIKEABOTT131) · ENSIMAG, Grenoble INP  
